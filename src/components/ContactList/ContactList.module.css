@@ -1,0 +1,12 @@
+.LiContact {
+        margin-bottom: 10px;
+        display: flex;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+}
+.DelContact {
+    cursor: pointer;
+}
+.DelContact:hover {
+    color: rgb(233, 43, 43);
+}
